@@ -34,10 +34,10 @@ A pie chart showing the percentage breakdown of product categories (e.g., Coffee
 
 ## Recommended Analysis for Coffee Shop Sales Dashboard
 ### 1.  How do sales vary by day of the week and hour of the day?
-- # Peak Sales Hours
+- ### Peak Sales Hours
 - Insights: The dashboard highlights that peak sales occur between 8 AM - 10 AM and 4 PM - 6 PM, coinciding with morning coffee runs and post-work relaxation times.
 - Action: Increase staff availability during these hours and consider special promotions or combos to maximize revenue.
-- # Weekly Sales Trends
+- ### Weekly Sales Trends
 - Insights: Sales are highest on Mondays, while weekends show lower customer activity.
 - Action: Schedule more staff on busy days and offer early-week discounts.
  ### 2.Are there any peak times for sales activity?
@@ -56,11 +56,11 @@ A pie chart showing the percentage breakdown of product categories (e.g., Coffee
 - Insights: The best-selling products include Barista Espresso and Brewed Chai Tea.
 - Action: Promote these top sellers through bundles or upselling strategies and ensure adequate inventory.
 ### 7. How do sales vary by product category and type?
-- # Product Categories:
+- ### Product Categories:
 - Coffee: The largest contributor to sales, reflecting its popularity and customer preference.
 - Bakery: A significant portion of sales, indicating its value as a complementary product to beverages.
 - Tea: A smaller share of sales compared to coffee, suggesting potential for marketing campaigns to boost popularity.
-- # Top Product Types:
+- ### Top Product Types:
 - Barista Espresso: The best-selling product, showcasing high customer demand.
 - Brewed Chai Tea: A popular choice among tea products, despite tea having a smaller market share.
 - Other top-selling products in this category also contribute to diversifying revenue streams.
