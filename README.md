@@ -32,6 +32,12 @@ A bar chart showcasing the highest-selling products (e.g., Barista Espresso, Bre
 
 A pie chart showing the percentage breakdown of product categories (e.g., Coffee, Bakery, Tea).
 
+Below is a snippet of the final dashboard in Excel.
+![Dashboard](https://github.com/Meghana157/Coffee-shop-sales/blob/main/Coffee%20shop%20sales.png)
+
+- The dashboard is created by inserting and customizing the pivot charts of corresponding pivot table.
+- <a href="https://github.com/Meghana157/Coffee-shop-sales/blob/main/Coffe%20sales%20Dashboard.xlsx">Project</a>
+
 ## Recommended Analysis for Coffee Shop Sales Dashboard
 ### 1.  How do sales vary by day of the week and hour of the day?
 - ### Peak Sales Hours
